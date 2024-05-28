@@ -7,7 +7,7 @@
 
 ## Project Goals and Assumptions
 
-WAIT possesses information about the declared competencies of individuals ready to work on projects, but lacks knowledge about the evolution of these competencies. The challenge lies in analyzing the collected data to draw useful conclusions that will help in creating effective project teams. Additionally, it is necessary to conduct segmentation of WAIT members through grouping and clustering.
+WAIT holds valuable information about the declared competencies of individuals available for project work, yet it lacks insight into how these competencies evolve over time. The primary challenge is to analyze this collected data effectively to extract actionable insights that will aid in forming highly efficient project teams. Moreover, it is crucial to segment WAIT members by grouping and clustering them based on their skills and competencies. This segmentation will enable more strategic team composition, enhancing overall project success.
 
 ### Project Goals
 1. **Competency Data Analysis**: Draw useful conclusions from the data collected so far regarding the competencies of WAIT members.
