@@ -25,10 +25,10 @@ The primary target audience for this project consists of participants of the WAI
 ## Resources and Constraints
 
 ### Competency Constraints
-Most of the individuals executing the project do not have experience in such endeavors and are just beginning to learn the basics of machine learning. The lack of prior experience may affect the pace of work and the quality of task execution.
+The majority of the team members are new to machine learning, with many just beginning to grasp its fundamentals. This lack of prior experience could potentially impact the project's progress and the quality of deliverables. To mitigate these risks, it is crucial to provide ongoing training and support, ensuring that all team members quickly build the necessary skills to contribute effectively.ad
 
 ### Time Constraint
-The project must be completed by June 23, 2024, which is the final deadline for the project's completion. The limited time requires effective resource management and strict adherence to the schedule.
+The project has a firm deadline of June 23, 2024. This tight timeline necessitates meticulous resource management and unwavering adherence to the project schedule. Implementing a robust project plan, with clear milestones and regular progress reviews, will be essential to ensure timely completion and high-quality outcomes.
 
 ## Detailed Specification
 
