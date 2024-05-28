@@ -20,7 +20,7 @@ WAIT holds valuable information about the declared competencies of individuals a
 By achieving these goals, we will gain a deeper understanding of the competency landscape within the WAIT community. This enhanced comprehension will lead to more effective human resource management, fostering the creation of high-performing project teams tailored to specific project needs.
 
 ## Target Audience
-Individuals managing projects within WAIT or people looking for others to join their projects.
+The primary target audience for this project consists of participants of the WAIT organization. This group is characterized by individuals who are interested in collaborative project development. Their goal is to leverage the diverse competencies within their community, which have been identified through a detailed survey analysis.git 
 
 ## Resources and Constraints
 
