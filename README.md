@@ -1,4 +1,4 @@
-# DMI Advanced HR Analytics
+ p# DMI Advanced HR Analytics
 
 ## Authors
 - Magdalena Pietrzak
@@ -7,7 +7,7 @@
 
 ## Project Goals and Assumptions
 
-WAIT holds valuable information about the declared competencies of individuals available for project work, yet it lacks insight into how these competencies evolve over time. The primary challenge is to analyze this collected data effectively to extract actionable insights that will aid in forming highly efficient project teams. Moreover, it is crucial to segment WAIT members by grouping and clustering them based on their skills and competencies. This segmentation will enable more strategic team composition, enhancing overall project success.
+WAIT holds valuable information about the declared competencies of individuals available for project work, yet it lacks insight into how these competencies evolve over time. The primary challenge is to analyze this collected data effectively to extract actionable insights that will aid in forming highly efficient project teams. Moreover, it is crucial to segment WAIT members by grouping and clustering them based on their skills and competencies. This segmentation will enable more strategic team composition, enhancing overall project success. 
 
 ### Project Goals
 
@@ -25,7 +25,7 @@ The primary target audience for this project consists of participants of the WAI
 ## Resources and Constraints
 
 ### Competency Constraints
-The majority of the team members are new to machine learning, with many just beginning to grasp its fundamentals. This lack of prior experience could potentially impact the project's progress and the quality of deliverables. To mitigate these risks, it is crucial to provide ongoing training and support, ensuring that all team members quickly build the necessary skills to contribute effectively.ad
+The majority of the team members are new to machine learning, with many just beginning to grasp its fundamentals. This lack of prior experience could potentially impact the project's progress and the quality of deliverables. To mitigate these risks, it is crucial to provide ongoing training and support, ensuring that all team members quickly build the necessary skills to contribute effectively.ad 
 
 ### Time Constraint
 The project has a firm deadline of June 23, 2024. This tight timeline necessitates meticulous resource management and unwavering adherence to the project schedule. Implementing a robust project plan, with clear milestones and regular progress reviews, will be essential to ensure timely completion and high-quality outcomes.
