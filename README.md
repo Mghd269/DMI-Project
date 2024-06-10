@@ -1,4 +1,4 @@
-# DMI Advanced HR Analytics
+ p# DMI Advanced HR Analytics
 
 ## Authors
 - Magdalena Pietrzak
@@ -7,7 +7,7 @@
 
 ## Project Goals and Assumptions
 
-WAIT holds valuable information about the declared competencies of individuals available for project work, yet it lacks insight into how these competencies evolve over time. The primary challenge is to analyze this collected data effectively to extract actionable insights that will aid in forming highly efficient project teams. Moreover, it is crucial to segment WAIT members by grouping and clustering them based on their skills and competencies. This segmentation will enable more strategic team composition, enhancing overall project success.
+WAIT holds valuable information about the declared competencies of individuals available for project work, yet it lacks insight into how these competencies evolve over time. The primary challenge is to analyze this collected data effectively to extract actionable insights that will aid in forming highly efficient project teams. Moreover, it is crucial to segment WAIT members by grouping and clustering them based on their skills and competencies. This segmentation will enable more strategic team composition, enhancing overall project success. 
 
 ### Project Goals
 
