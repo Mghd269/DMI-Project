@@ -1,4 +1,4 @@
- p# DMI Advanced HR Analytics
+ # DMI Advanced HR Analytics
 
 ## Authors
 - Magdalena Pietrzak
