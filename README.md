@@ -1,6 +1,7 @@
  # DMI Advanced HR Analytics
  
- ![Logo](https://github.com/Mghd269/DMI-Project/assets/167789023/5b54af04-e630-45ee-bdf1-4df08573bafc)
+ ![Logo](https://github.com/Mghd269/DMI-Project/assets/167789023/dbb63446-62d7-43b1-8ff7-8e0bfa6fd057)
+
 
 ## Authors
 - Magdalena Pietrzak
