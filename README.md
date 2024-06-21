@@ -1,4 +1,4 @@
- # DMI Advanced HR Analytics
+ # DMI Advanced HR Analytics 📊📈
  
 ![Logo](https://github.com/Mghd269/DMI-Project/assets/167789023/ebf5f20e-b409-4926-83b9-fd80ac76999f)
 
@@ -7,7 +7,7 @@
 - Hubert Domagała
 - Michał Głąb
 
-## Project Goals and Assumptions 
+## Project Goals and Assumptions 🥇
 
 WAIT holds valuable information about the declared competencies of individuals available for project work, yet it lacks insight into how these competencies evolve over time. The primary challenge is to analyze this collected data effectively to extract actionable insights that will aid in forming highly efficient project teams. Moreover, it is crucial to segment WAIT members by grouping and clustering them based on their skills and competencies. This segmentation will enable more strategic team composition, enhancing overall project success. 
 
@@ -24,9 +24,9 @@ By achieving these goals, we will gain a deeper understanding of the competency 
 ## Target Audience 🎯
 The primary target audience for this project consists of participants of the WAIT organization. This group is characterized by individuals who are interested in collaborative project development. Their goal is to leverage the diverse competencies within their community, which have been identified through a detailed survey analysis.git 
 
-## Resources and Constraints
+## Resources and Constraints 🔐
 
-### Competency Constraints
+### Competency Constraints 🛑✋🏼
 The majority of the team members are new to machine learning, with many just beginning to grasp its fundamentals. This lack of prior experience could potentially impact the project's progress and the quality of deliverables. To mitigate these risks, it is crucial to provide ongoing training and support, ensuring that all team members quickly build the necessary skills to contribute effectively.ad 
 
 ### Time Constraint ⏳
