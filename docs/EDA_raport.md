@@ -1,5 +1,4 @@
 ### DMI Advanced HR Analytics
-
 **Magdalena Pietrzak, Hubert Domagała, Michał Głąb**
 
 #### Results Analysis
@@ -8,7 +7,7 @@ The following image presents the Spearman correlation matrix, which is a graphic
 
 The colors on the heatmap represent different values of the correlation coefficient. Dark blue indicates a correlation coefficient close to -1, suggesting a strong negative correlation between two competencies. This means that when one competency is rated highly, the other is usually rated low and vice versa. Green color represents little or no correlation, indicating that the rankings of two competencies are not related. Dark yellow indicates a correlation coefficient close to 1, suggesting a strong positive correlation, meaning that two competencies are usually rated similarly – when one is rated highly, the other is also usually rated highly.
 
-img1
+![Spearman correlation matrix](https://github.com/Mghd269/DMI-Project/blob/main/figures/img1.png)
 
 Analyzing the matrix, some interesting relationships can be observed. For example, Python and R competencies appear to be strongly correlated, which makes sense since both are popular programming languages used in data analysis. On the other hand, Python and Excel seem to have a weak correlation, which may result from Excel being used more for simpler data analysis tasks, while Python is preferred for more complex analyses.
 
@@ -20,7 +19,7 @@ The highest correlations are observed in four clustered groups of competencies:
 
 In the image below, the colors on the matrix range from blue to red; blue indicates a negative correlation, and red indicates a positive correlation. All languages have a perfect correlation of 100 with each other, which is standard for any correlation matrix as everything is perfectly correlated with itself.
 
-img2
+![Correlation matrix](https://github.com/Mghd269/DMI-Project/blob/main/figures/img2.png)
 
 #### Correlation Matrix Analysis
 
@@ -34,7 +33,7 @@ The correlation matrix presents the following relationships between different to
 
 The correlation matrix also presents relationships between different fields in machine learning:
 
-img3
+![Machine learning correlation matrix](https://github.com/Mghd269/DMI-Project/blob/main/figures/img3.png)
 
 - **Docker**: Has a weak positive correlation (0.56) with TimeSeries, a moderate positive correlation (0.61) with ClassicalML, a moderate positive correlation (0.73) with NLP, and a moderate positive correlation (0.69) with ComputerVision.
 - **TimeSeries**: Has a moderate positive correlation (0.90) with ClassicalML, a moderate positive correlation (0.85) with NLP, and a moderate positive correlation (0.80) with ComputerVision.
@@ -43,7 +42,7 @@ img3
 
 The correlation matrix below shows the following relationships between different databases and tools:
 
-img4
+![Databases and tools correlation matrix](https://github.com/Mghd269/DMI-Project/blob/main/figures/img4.png)
 
 - **SQL**: Has a moderate positive correlation (0.29) with NoSQL, a weak positive correlation (0.21) with Azure, a weak positive correlation (0.06) with AWS, no correlation (-0.06) with GPC, a moderate positive correlation (0.34) with PowerBI, and a weak positive correlation (0.19) with Tableau.
 - **NoSQL**: Has a moderate negative correlation (-0.80) with Azure, AWS, GPC, PowerBI, and Tableau.
@@ -54,7 +53,7 @@ img4
 
 The correlation matrix shows the following relationships between different soft skills and professional roles:
 
-img5
+![Soft skills and professional roles correlation matrix](https://github.com/Mghd269/DMI-Project/blob/main/figures/img5.png)
 
 - **ProjectManagement**: Has a moderate positive correlation (0.50) with SocialMedia, a moderate positive correlation (0.37) with UxUi, a moderate positive correlation (0.57) with GraphicDesign, a moderate positive correlation (0.45) with BusinessRelations, a moderate positive correlation (0.57) with ScientistRelations, and a moderate positive correlation (0.50) with UEWAdmin.
 - **SocialMedia**: Has a moderate negative correlation (-0.90) with UxUi, GraphicDesign, BusinessRelations, ScientistRelations, and UEWAdmin.
@@ -65,7 +64,7 @@ img5
 
 The correlation matrix shows the following relationships between different industry branches:
 
-img6
+![Industry branches correlation matrix](https://github.com/Mghd269/DMI-Project/blob/main/figures/img6.png)
 
 - **FinTech**: Has a moderate positive correlation (0.57) with HealthTech, a moderate positive correlation (0.55) with FashionTech, a moderate positive correlation (0.45) with Ecommerce, a moderate positive correlation (0.50) with SportTech, a strong positive correlation (0.72) with NonProfit, a moderate positive correlation (0.55) with Cybersecurity, and a moderate positive correlation (0.49) with HR.
 - **HealthTech**: Has a moderate negative correlation (-0.90) with FashionTech, Ecommerce, SportTech, NonProfit, Cybersecurity, and HR.
@@ -79,14 +78,14 @@ img6
 
 The next question in the survey asked how participants would like to be involved in the Data Community:
 
-img7
+![Survey results](https://github.com/Mghd269/DMI-Project/blob/main/figures/img7.png)
 
 - 59.3% of respondents would like to participate in a data project.
 - 40.7% intend to actively participate in the community.
 
 #### Programming Skills Bar Chart
 
-img8
+![Programming skills bar chart](https://github.com/Mghd269/DMI-Project/blob/main/figures/img8.png)
 
 The diagram presents a vertical bar chart of programming skill ratings. The chart shows various programming skills on the horizontal axis such as "Java," "C++," "Python," and several others. Each skill has five colored bars corresponding to different ratings indicated in the legend on the right side of the chart. The colors represent different levels of proficiency: purple for 'No Knowledge,' blue for 'Beginner,' green for 'Intermediate,' yellow for 'Advanced,' and dark blue for 'Mentor.' The vertical axis represents the number of ratings ranging from 0 to 60.
 
@@ -99,15 +98,17 @@ Based on the chart, the highest values are:
 
 #### Trends in Programming and Technologies
 
-img9
+![Trends in programming and technologies](https://github.com/Mghd269/DMI-Project/blob/main/figures/img9.png)
 
-Based on the submitted image, which contains six bar charts representing various programming languages and technologies (R, Python, Bash, Git, CLI, and FrontEnd), the following trends can be observed:
+Based on the submitted image, which contains six bar charts representing various programming languages and
+
+ technologies (R, Python, Bash, Git, CLI, and FrontEnd), the following trends can be observed:
 - The majority of respondents indicated interest in R, Python, GIT, CLI, and FrontEnd. Bash is a language that most people are unaware of.
 - The fewest respondents declared themselves mentors in R, Bash, CLI, and FrontEnd. In Python and GIT, the highest number of respondents are ‘Not Interested.’
 
 #### Programming Skills Analysis
 
-img10
+![Programming skills analysis](https://github.com/Mghd269/DMI-Project/blob/main/figures/img10.png)
 
 Based on the submitted image containing five bar charts representing various categories (‘Doctor,’ ‘TimeSeries,’ ‘ClassicalML,’ ‘NLP,’ and ‘Comparison’), the following extreme values can be observed:
 - Most people are interested in Docker, ClassicalML, NLP, and ComputerVision. It is worth noting that in all cases, there is a significant group of people unaware of these fields. For TimeSeries, the majority are unaware.
@@ -115,17 +116,15 @@ Based on the submitted image containing five bar charts representing various cat
 
 #### Database and Tools Analysis
 
-img11
+![Database and tools analysis](https://github.com/Mghd269/DMI-Project/blob/main/figures/img11.png)
 
-Based on the submitted image containing seven bar charts representing various technologies or platforms (SQL, NoSQL
-
-, Azure, AWS, GCP, PowerBI, and Tableau), the following detailed observations can be made:
+Based on the submitted image containing seven bar charts representing various technologies or platforms (SQL, NoSQL, Azure, AWS, GCP, PowerBI, and Tableau), the following detailed observations can be made:
 - The vast majority of votes were cast for the ‘Interested’ option in NoSQL, Azure, AWS, GCP, PowerBI, and Tableau. For SQL, the majority of people are competent.
 - NoSQL, Azure, AWS, GCP, and Tableau have the fewest declared mentors. In SQL, the fewest respondents marked ‘Not Interested.’ The fewest votes in PowerBI were cast for the ‘Unaware’ option.
 
 #### Branches Columns Overview
 
-img12
+![Branches columns overview](https://github.com/Mghd269/DMI-Project/blob/main/figures/img12.png)
 
 Based on the submitted image containing a series of bar charts titled “Branches Columns Overview” representing various categories such as ProjectManagement, SocialMedia, GraphicDesign, BusinessStories, ScientistRelations, Funding, and LEWAdmin, the following detailed observations can be made:
 - Most people are not interested in SocialMedia, UxUi, GraphicDesign, Funding, and UEWAdmin. For ProjectManagement, BusinessRelations, and ScientistRelations, the majority of votes were cast for the ‘Interested’ option.
@@ -133,7 +132,7 @@ Based on the submitted image containing a series of bar charts titled “Branche
 
 #### FinTech, HealthTech, and Other Tech Branches
 
-img13
+![Tech branches overview](https://github.com/Mghd269/DMI-Project/blob/main/figures/img13.png)
 
 Based on the submitted image containing a series of bar charts titled “Branches Columns Overview” representing various categories such as FinTech, HealthTech, FashionTech, Ecommerance, SportTech, NonProfit, PropTech, Cybersecurity, and HR, the following detailed observations can be made:
 - The majority of people marked the ‘Interested’ option in FinTech, HealthTech, Ecommerance, SportTech, NonProfit, PropTech, Cybersecurity. In HR, the number of people not interested exceeds. In FashionTech, the majority of people are unaware.
@@ -141,7 +140,7 @@ Based on the submitted image containing a series of bar charts titled “Branche
 
 #### Median Skill Ratings
 
-img14
+![Median skill ratings](https://github.com/Mghd269/DMI-Project/blob/main/figures/img14.png)
 
 The submitted image shows a bar chart titled “Median Skill Ratings.” The chart represents six different programming skills: R, Python, Bash, Git, CLI, and Frontend. Each skill has a corresponding bar indicating its median ratings: R has a rating of 3.00, Python 2.00, Bash 1.00, Git 2.00, CLI 2.00, and Frontend 1.00.
 
